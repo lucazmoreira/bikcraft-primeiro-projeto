@@ -2,12 +2,14 @@
   --cor-primaria: #f7f7f7;
   --cor-secundaria: #ffffff;
   --cor-detalhe: #e21;
+  --cor-marca: #1a1a1a;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --cor-primaria: #1a1a1a;
     --cor-secundaria: #303030;
+    --cor-marca: #ffffff;
   }
 
   * {
